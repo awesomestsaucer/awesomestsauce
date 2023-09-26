@@ -1,4 +1,5 @@
 # The <em><strong>Awesomestsauce</strong></em>
+<html>
 <!-- WHAT IS THE AWESOMESTSAUCE -->
 <div id=Information>
   <h2>What is the <em><strong>Awesomestsauce?</strong></em></h2>
